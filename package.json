@@ -1,0 +1,16 @@
+{
+  "name": "esprima-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esprima-next": "^6.0.2",
+    "lebab": "^3.2.4"
+  }
+}

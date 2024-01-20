@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "COMMAND NAME",
+            "type": "shell",
+            "command": "YOUR COMMAND HERE",
+            "presentation": {"echo": true, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
+        }
+        // More tasks here, if you need them.
+    ]
+}
